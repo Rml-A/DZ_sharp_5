@@ -1,0 +1,15 @@
+L:\Обучение GB\DZ_sharp_5\task_38\obj\Debug\net6.0\task_38.csproj.AssemblyReference.cache
+L:\Обучение GB\DZ_sharp_5\task_38\obj\Debug\net6.0\task_38.GeneratedMSBuildEditorConfig.editorconfig
+L:\Обучение GB\DZ_sharp_5\task_38\obj\Debug\net6.0\task_38.AssemblyInfoInputs.cache
+L:\Обучение GB\DZ_sharp_5\task_38\obj\Debug\net6.0\task_38.AssemblyInfo.cs
+L:\Обучение GB\DZ_sharp_5\task_38\obj\Debug\net6.0\task_38.csproj.CoreCompileInputs.cache
+L:\Обучение GB\DZ_sharp_5\task_38\bin\Debug\net6.0\task_38.exe
+L:\Обучение GB\DZ_sharp_5\task_38\bin\Debug\net6.0\task_38.deps.json
+L:\Обучение GB\DZ_sharp_5\task_38\bin\Debug\net6.0\task_38.runtimeconfig.json
+L:\Обучение GB\DZ_sharp_5\task_38\bin\Debug\net6.0\task_38.dll
+L:\Обучение GB\DZ_sharp_5\task_38\bin\Debug\net6.0\task_38.pdb
+L:\Обучение GB\DZ_sharp_5\task_38\obj\Debug\net6.0\task_38.dll
+L:\Обучение GB\DZ_sharp_5\task_38\obj\Debug\net6.0\refint\task_38.dll
+L:\Обучение GB\DZ_sharp_5\task_38\obj\Debug\net6.0\task_38.pdb
+L:\Обучение GB\DZ_sharp_5\task_38\obj\Debug\net6.0\task_38.genruntimeconfig.cache
+L:\Обучение GB\DZ_sharp_5\task_38\obj\Debug\net6.0\ref\task_38.dll
